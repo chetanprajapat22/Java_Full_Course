@@ -1,0 +1,9 @@
+package in.co.Basic;
+
+public class division {
+    public static void main(String[] args) {
+        int a = 100; int b =20;
+        int c = a/b;
+        System.out.println("div of two number: " + c);
+    }
+}
